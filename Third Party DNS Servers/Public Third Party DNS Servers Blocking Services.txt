@@ -1,0 +1,1389 @@
+==============================================================================
+		# Third Party Public DNS Servers Outside ISP and Public DNS Servers
+==============================================================================
+
+# Sources  (DNS Servers):		
+
+# Adguard: https://kb.adguard.com/en/general/dns-providers#adguard-dns
+
+# IPFire Wiki: https://wiki.ipfire.org/dns/public-servers
+
+# DNS Switch App: https://play.google.com/store/apps/details?id=net.mypush.dnsswitch
+
+# DNS Changer IPv4 & IPv6 App: https://play.google.com/store/apps/details?id=com.appplanex.dnschanger
+
+# Change DNS Pro App: https://play.google.com/store/apps/details?id=com.andevstudioth.changednspro
+
+# DNS Changer - Trust DNS | Fast & Secure Connection App: https://play.google.com/store/apps/details?id=com.surfshark.free.proxy.trust.dns
+
+----------------------------------------------------------------
+
+# Sources (Domains / IPv4 / IPv6):
+
+# WhatsmyDNS.net: https://www.whatsmydns.net/
+
+==================================================================
+# IPv4:
+==================================================================
+
+114.114.114.114
+114.114.115.115
+114.114.114.119
+114.114.115.119
+114.114.114.110
+114.114.115.110
+101.226.4.6
+218.30.118.6
+123.125.81.6
+140.207.198.6
+94.140.14.14
+94.140.15.15
+176.103.130.130
+94.140.14.15
+94.140.15.16
+176.103.130.132
+94.140.14.140
+94.140.14.141
+223.5.5.5
+223.6.6.6
+93.177.65.183
+172.66.40.107
+172.66.43.149
+188.114.97.128
+5.2.75.75
+45.79.120.233
+45.67.219.208
+185.213.26.187
+45.132.75.16
+45.91.95.12
+45.132.74.167
+185.175.56.133
+193.29.62.196
+103.73.64.132
+3.7.156.128
+104.154.51.7
+35.199.88.219
+104.155.28.90
+104.155.220.58
+35.189.47.23
+78.100.17.60
+198.101.242.72
+23.253.163.53
+95.216.212.177
+139.162.112.47
+159.69.198.101
+210.2.4.8
+202.46.32.187
+180.76.76.76
+185.228.168.168
+185.228.169.168
+185.228.168.10
+185.228.169.11
+185.228.168.9
+185.228.169.9
+1.1.1.1
+1.0.0.1
+1.1.1.2
+1.0.0.2
+1.1.1.3
+1.0.0.3
+8.26.56.26
+8.20.247.20
+8.20.247.2
+92.38.152.163
+93.115.24.204
+92.223.109.31
+91.230.211.67
+149.112.121.10
+149.112.122.10
+149.112.121.20
+149.112.122.20
+149.112.121.30
+149.112.122.30
+193.17.47.1
+185.43.135.1
+139.59.48.222
+194.187.251.67
+38.132.106.139
+76.76.2.0
+76.76.10.0
+76.76.2.1
+76.76.10.1
+147.185.34.1
+76.76.2.2
+76.76.10.2
+76.76.2.3
+76.76.10.3
+76.76.2.4
+76.76.10.4
+76.76.2.5
+76.76.2.11
+76.76.10.5
+91.239.100.100
+89.233.43.71
+199.58.81.218
+216.146.35.35
+216.146.36.36
+84.200.69.80  
+84.200.70.40
+94.130.180.225
+78.47.64.161
+172.105.216.54
+5.2.75.231
+119.29.29.29
+119.28.28.28
+176.9.199.158
+185.222.222.222
+45.11.45.11
+185.184.222.222
+176.9.93.198
+176.9.1.117
+185.49.141.37
+145.100.185.15
+145.100.185.16
+89.233.43.71
+91.239.100.100
+199.58.81.218
+51.15.70.167
+81.187.221.24
+94.130.110.185
+94.130.110.178
+139.59.51.46
+89.234.186.112
+146.185.167.43
+200.1.123.46
+184.105.193.78
+185.95.218.42
+185.95.218.43
+185.235.81.1
+185.235.81.2
+185.235.81.3
+185.235.81.4
+185.235.81.5
+185.235.81.6
+84.202.46.199
+46.182.19.48
+5.9.164.112
+45.55.155.25
+104.236.210.29
+172.104.237.57
+172.104.49.100
+37.235.1.174
+37.235.1.177
+80.80.80.80
+80.80.81.81
+158.64.1.29
+185.121.177.177
+169.239.202.202
+5.1.66.255
+195.30.94.28
+185.150.99.255
+45.77.165.194
+45.32.36.36
+80.67.169.12
+80.67.169.40
+146.255.56.98
+185.246.188.51
+185.247.225.17
+8.8.8.8
+8.8.4.4
+81.218.119.1
+9.88.198.133
+185.49.141.37
+74.82.42.42
+103.2.57.5
+103.2.57.6
+83.77.85.7
+178.82.102.190
+81.3.27.54
+51.158.147.50
+88.198.92.222
+116.202.176.26
+35.185.44.232
+193.138.218.74
+193.19.108.2
+194.242.2.2
+193.19.108.3
+194.242.2.3
+64.6.64.6
+64.6.65.6
+156.154.70.1
+156.154.71.1
+156.154.70.2
+156.154.71.2
+156.154.70.3
+156.154.71.3
+156.154.70.4
+156.154.71.4
+156.154.70.5
+156.154.71.5
+180.131.144.144
+180.131.145.145
+143.110.229.87
+209.94.63.235
+162.220.222.155
+193.7.200.123
+162.220.223.23
+207.246.91.188
+200.25.57.69
+37.252.238.25
+194.156.155.239
+217.146.1.31
+37.252.230.153
+37.252.232.95
+45.90.28.0
+45.90.30.0
+159.100.248.193
+178.255.153.47
+102.68.86.68
+188.172.217.27
+185.40.106.78
+5.188.168.252
+217.146.11.49
+68.183.91.243
+116.204.183.61
+43.229.79.19
+45.121.145.91
+45.121.146.34
+162.220.223.23
+207.246.91.188
+103.127.124.46
+141.164.63.208
+103.170.232.254
+167.179.109.118
+103.212.225.153
+207.148.84.39
+119.252.86.27
+45.121.208.210
+103.130.69.37
+103.62.49.149
+170.39.224.134
+5.161.43.197
+170.39.225.135
+185.240.84.237
+213.227.173.235
+131.100.0.5
+200.25.32.197
+209.250.226.191
+193.168.204.73
+37.252.225.79
+188.172.219.167
+95.179.134.211
+188.172.192.71
+192.36.27.86
+116.203.147.209
+217.146.22.163
+178.255.155.63
+192.145.127.148
+103.62.48.147
+217.146.9.93
+51.222.107.153
+185.209.84.31
+217.146.10.59
+162.250.6.163
+45.121.209.148
+86.106.90.57
+37.252.254.39
+103.127.29.198
+45.11.104.186
+119.252.72.43
+194.8.57.12
+5.45.96.220
+89.234.186.112
+208.67.222.222
+208.67.220.220
+208.67.220.222
+208.67.222.220
+208.67.222.123
+208.67.220.123
+208.67.222.2
+208.67.220.2
+185.121.177.177
+169.239.202.202
+117.50.10.10
+52.80.52.52
+117.50.11.11
+52.80.66.66
+51.38.83.141
+51.38.82.198
+174.138.21.128
+172.104.93.80
+109.69.8.51
+51.89.30.51
+51.89.93.25
+9.9.9.9
+149.112.112.112
+9.9.9.11
+149.112.112.11
+9.9.9.10
+149.112.112.10
+101.101.101.101
+101.102.103.104
+104.21.13.53
+172.67.154.200
+172.64.80.1
+188.114.96.3
+188.114.97.3
+188.114.96.0
+188.114.97.0
+188.114.96.22
+188.114.97.22
+188.114.96.15
+188.114.97.15
+188.114.96.2
+188.114.97.2
+213.188.218.85
+202.46.34.74
+202.46.36.3
+158.64.1.29
+130.59.31.248
+130.59.31.251
+193.58.251.251
+202.46.34.75
+195.46.39.39
+195.46.39.40
+95.216.24.230
+54.174.40.213
+52.3.100.184
+104.155.237.225
+104.197.28.121
+45.76.113.31
+139.99.222.72
+145.100.185.17
+145.100.185.18
+146.185.167.43
+77.88.8.1
+77.88.8.8
+77.88.8.78
+77.88.8.2
+77.88.8.88
+77.88.8.3
+77.88.8.7
+209.244.0.3
+209.244.0.4
+172.28.1.182
+74.113.60.185 
+194.150.168.168
+77.109.148.136
+77.109.148.137
+156.154.70.1
+156.154.71.1
+216.87.84.211
+23.90.4.6
+161.97.219.82
+208.76.50.50
+208.76.51.51
+91.239.100.100
+89.233.43.71
+158.69.209.100
+45.32.72.192
+202.14.67.4
+202.14.67.14
+182.254.116.116
+134.175.75.151
+140.143.215.139
+212.129.229.215
+101.226.4.6
+218.30.118.6
+115.159.157.26
+114.215.126.16
+112.124.47.27
+101.132.183.99
+193.112.15.186
+108.61.201.119
+217.61.0.97
+87.118.111.215
+213.187.11.62
+30.73.101.101
+123.207.5.191
+47.100.252.9
+46.101.208.121
+178.62.117.240
+45.32.198.153
+1.2.4.8
+210.2.4.8
+139.175.252.16
+39.175.55.244
+202.67.240.222
+202.67.240.221
+202.45.84.58
+202.45.84.59
+203.184.192.67
+203.184.192.66
+203.184.192.68
+168.95.1.1
+168.95.192.1
+168.126.63.1
+168.126.63.2
+210.220.163.82
+219.250.36.130
+103.86.96.100
+103.86.99.100
+99.192.182.100
+99.192.182.101
+199.85.126.10
+199.85.127.10
+92.249.39.1
+46.101.66.244
+104.28.0.106
+104.21.6.78
+172.67.134.157
+192.30.94.28
+185.150.99.255
+5.1.66.255
+104.28.28.34
+104.21.30.162
+172.67.173.59
+16.170.150.221
+94.130.224.114
+45.76.113.31
+139.99.222.72
+51.15.124.208
+104.168.247.138
+162.159.26.160
+162.159.27.118
+162.159.25.110
+162.159.24.242
+45.153.187.96
+80.156.145.201
+95.216.229.153
+172.105.241.96
+172.105.241.93
+146.112.41.2
+174.138.29.175
+172.104.93.80
+101.34.204.157
+101.35.161.25
+149.129.115.17
+43.154.198.199
+101.70.154.119
+111.202.85.37
+112.90.43.190
+113.1.0.33
+116.177.248.88
+14.204.139.249
+175.21.165.81
+219.154.245.172
+221.204.20.75
+36.248.43.146
+43.242.166.42
+59.83.204.153
+59.83.204.154
+59.83.204.156
+61.161.9.116
+149.56.228.45
+167.114.220.125
+45.77.180.10
+176.56.236.175
+168.235.81.167
+217.168.20.23
+217.169.20.22
+99.83.154.118
+75.2.45.215
+116.203.179.248
+
+==================================================================
+# IPv6:
+==================================================================
+
+2a10:50c0::ad1:ff
+2a10:50c0::ad2:ff
+2a00:5a60::ad2:0ff
+2a10:50c0::bad1:ff
+2a10:50c0::bad2:ff
+2a00:5a60::bad2:0ff
+2a10:50c0::1:ff
+2a10:50c0::2:ff
+2a00:5a60::01:ff
+2400:3200::1
+2400:3200:baba::1
+2a03:4000:38:53c::2
+2a04:52c0:101:75::75
+2400:8904:e001:43::43
+2a04:bdc7:100:70::70
+2a0d:5600:33:3::3
+2a0e:dc0:7:d::d
+2a0e:dc0:8:12::12
+2a0e:dc0:9:17::17
+2a0d:5600:30:28::28
+2605:4840:3:c4::c4
+2406:ef80:100:11::11
+2a01:4f9:c010:43ce::
+2400:8902::f03c:92ff:fe27:344b
+2a01:4f8:1c1c:6b4b::1
+2a0d:2a00:1::
+2a0d:2a00:2::
+2a0d:2a00:1::1
+2a0d:2a00:2::1
+2a0d:2a00:1::2
+2a0d:2a00:2::2
+2606:4700:4700::1111
+2606:4700:4700::1001
+2606:4700:4700::64
+2606:4700:4700::6400
+2606:4700:4700::1112
+2606:4700:4700::1002
+2606:4700:4700::1113
+2606:4700:4700::1003
+2a03:90c0:56::1a5
+2a02:7b40:5eb0:e95d::1
+2a03:90c0:b5::1a
+2a04:2fc0:39::47
+2620:10A:80BB::10
+2620:10A:80BC::10
+2620:10A:80BB::20
+2620:10A:80BC::20
+2620:10A:80BB::30
+2620:10A:80BC::30
+240C::6666
+240C::6644
+2001:148f:ffff::1
+2001:148f:fffe::1
+2606:1a40:1::
+2606:1a40::1
+2606:1a40:1::1
+2606:1a40::2
+2606:1a40:1::2
+2606:1a40::3
+2606:1a40:1::3
+2606:1a40::4
+2606:1a40:1::4
+2606:1a40::5
+2606:1a40:1::5
+2002:d596:2a92:1:71:53:: 
+2a01:3a0:53:53::
+2001:470:1c:76d::53
+2001:1608:10:25::1c04:b12f
+2001:1608:10:25::9249:d69b
+2a01:4f8:1c0c:40db::1
+2a01:4f8:1c17:4df8::1
+2400:8902::f03c:92ff:fe09:48cc
+2a04:52c0:101:98d::
+2a01:4f8:151:11b0::3
+2a09::
+2a11::
+2a09::1
+2a01:4f8:151:34aa::198
+2a01:4f8:141:316d::117
+2a04:b900:0:100::37
+2001:610:1:40ba:145:100:185:15
+2001:610:1:40ba:145:100:185:16
+2a01:3a0:53:53::0
+2001:67c:28a4::
+2001:470:1c:76d::53
+2001:8b0:24:24::24
+2a01:4f8:c0c:3c03::2
+2a01:4f8:c0c:3bfc::2
+2a00:5884:8209::2
+2001:67c:27e4::35
+2a03:b0c0:0:1010::e9a:3001
+2001:1398:1:0:200:1:123:46
+2620:ff:c000:0:1::64:25
+2a05:fc84::42
+2a05:fc84::43
+2a0d:4d00:81::1
+2a0d:4d00:81::2
+2a0d:4d00:81::3
+2a0d:4d00:81::4
+2a0d:4d00:81::5
+2a0d:4d00:81::6
+2a02:2970:1002::18
+2001:a18:1::29
+2001:678:e68:f000::
+2001:608:a01::3
+2001:678:ed0:f000::
+2001:910:800::12
+2001:910:800::40
+2a01:4f8:c0c:83ed::1
+2a02:1b8:10:234::2
+2a06:1700:3:11::1
+2a06:1700:0:36::1
+2001:4860:4860::8888
+2001:4860:4860::8844
+2001:4860:4860::6464
+2001:4860:4860::64
+2a04:b900:0:100::37
+2001:470:20::2
+2a02:1205:5055:de60:b26e:bfff:fe1d:e19b
+2001:678:b28::54
+2620:74:1b::1:1
+2620:74:1c::2:2
+2610:a1:1018::1
+2610:a1:1019::1
+2610:a1:1018::2
+2610:a1:1019::2
+2610:a1:1018::3
+2610:a1:1019::3
+2610:a1:1018::4
+2610:a1:1019::4
+2610:a1:1018::5
+2610:a1:1019::5
+2a00:5884:8209::2
+2620:119:35::35
+2620:119:53::53
+2620:119:35::123
+2620:119:53::123
+2620:0:ccc::2
+2620:0:ccd::2
+2a05:dfc7:5::53
+2a05:dfc7:5::5353
+2001:41d0:801:2000::d64
+2001:41d0:801:2000::1b28
+2400:6180:0:d0::5f6e:4001
+2400:8902::f03c:91ff:feda:c514
+2a00:1508:0:4::9
+2001:41d0:701:1100:0:0:0:39cc
+2620:fe::fe
+2620:fe::9
+2620:fe::11
+2620:fe::fe:11
+2620:fe::10
+2620:fe::fe:10
+2001:de4::101
+2001:de4::102
+2001:a18:1::29
+2001:620:0:ff::2
+2001:620:0:ff::3
+2a01:4f9:2a:1919::9301
+2001:610:1:40ba:145:100:185:17
+2001:610:1:40ba:145:100:185:18
+2a02:6b8::feed:0ff
+2a02:6b8:0:1::feed:0ff
+2a02:6b8::feed:bad
+2a02:6b8:0:1::feed:bad
+2a02:6b8::feed:a11
+2a02:6b8:0:1::feed:a11 	
+2a01:4f9:c010:43ce::1
+2001:678:b28::182
+::ffff:194.150.168.168
+2610:a1:1018::1
+2610:a1:1019::1
+::ffff:216.87.84.211
+::ffff:23.90.4.6
+2001:470:4212:10::25:1
+::ffff:208.76.50.50
+::ffff:208.76.51.51
+2a01:3a0:53:53::
+2001:67c:28a4::
+::ffff:202.14.67.4
+::ffff:202.14.67.14
+::ffff:119.29.29.29
+::ffff:182.254.116.116
+::ffff:134.175.75.151
+::ffff:140.143.215.139
+::ffff:212.129.229.215
+::ffff:115.159.157.26
+::ffff:114.215.126.16
+::ffff:112.124.47.27
+::ffff:101.132.183.99
+::ffff:193.112.15.186
+::ffff:108.61.201.119
+::ffff:217.61.0.97
+::ffff:87.118.111.215
+::ffff:213.187.11.62
+::ffff:30.73.101.101
+::ffff:123.207.5.191
+::ffff:47.100.252.9
+::ffff:46.101.208.121
+::ffff:178.62.117.240
+::ffff:45.32.198.153
+::ffff:1.2.4.8
+::ffff:210.2.4.8
+::ffff:139.175.252.16
+::ffff:39.175.55.244
+::ffff:202.67.240.221
+::ffff:202.45.84.58
+::ffff:202.45.84.59
+::ffff:203.184.192.67
+::ffff:203.184.192.66
+::ffff:203.184.192.68
+::ffff:168.95.1.1
+::ffff:168.95.192.1
+2001:b000:168::1
+2001:b000:168::2
+::ffff:168.126.63.1
+::ffff:168.126.63.2
+::ffff:210.220.163.82
+::ffff:219.250.36.130
+::ffff:103.86.96.100
+::ffff:103.86.99.100
+::ffff:208.67.222.123
+::ffff:208.67.220.123
+::ffff:99.192.182.100
+::ffff:99.192.182.101
+::ffff:199.85.126.10
+::ffff:199.85.127.10
+::ffff:92.249.39.1
+::ffff:104.28.0.106
+::ffff:104.21.6.78
+::ffff:172.67.134.157
+2606:4700:30::681c:6a
+2606:4700:3036::ac43:869d
+2606:4700:3037::6815:64e
+::ffff:192.30.94.28
+::ffff:185.150.99.255
+::ffff:5.1.66.255
+2001:678:e68:f000::
+2001:678:ed0:f000::
+::ffff:104.28.28.34
+::ffff:104.21.30.162
+::ffff:172.67.173.59
+2606:4700:30::681c:1d22
+2606:4700:3030::ac43:ad3b
+2606:4700:3035::6815:1ea2
+::ffff:94.130.224.114
+::ffff:94.130.224.114
+2a01:4f8:c0c:9255::1
+2a05:d016:af8:4000:7710:6fc:bde3:fe0e
+::ffff:139.99.222.72
+2001:19f0:5801:1daa:5400:1ff:fe95:cf80
+::ffff:104.168.247.138
+::ffff:162.159.26.160
+::ffff:162.159.27.118
+::ffff:162.159.25.110
+::ffff:162.159.24.242
+2400:cb00:2049:1::a29f:196e
+2400:cb00:2049:1::a29f:18f2
+2001:bc8:1830:2018::1
+::ffff:45.153.187.96
+2a09:cd42:f:425b::1
+::ffff:80.156.145.201
+2003:4:e0b0:102:0:4:0:53
+::ffff:95.216.229.153
+2a01:4f9:2a:1919::21
+::ffff:172.105.241.96
+::ffff:172.105.241.93
+2400:8902:f03c:91ff:feed:220b
+::ffff:146.112.41.2
+2620:119:fc::2
+::ffff:174.138.29.175
+2400:6180:0:d0::5f73:4001
+2400:8902::f03c:91ff:feda:c514
+::ffff:101.34.204.157
+::ffff:101.35.161.25
+::ffff:149.129.115.17
+::ffff:43.154.198.199
+::ffff:101.70.154.119
+::ffff:111.202.85.37
+::ffff:112.90.43.190
+::ffff:113.1.0.33
+::ffff:116.177.248.88
+::ffff:14.204.139.249
+::ffff:175.21.165.81
+::ffff:219.154.245.172
+::ffff:221.204.20.75
+::ffff:36.248.43.146
+::ffff:43.242.166.42
+::ffff:59.83.204.153
+::ffff:59.83.204.154
+::ffff:59.83.204.156
+::ffff:61.161.9.116
+2408:8740:b1ff:4:1b::
+2408:8740:b1ff:4:30::
+2408:8740:b1ff:4:3f::
+2408:8740:b1ff:4:41::
+2408:8740:b1ff:4:43::
+2408:8740:b1ff:4:45::
+2408:8740:b1ff:4:46::
+2408:8740:b1ff:4:51::
+2408:8740:b1ff:4:5d::
+::ffff:149.56.228.45
+::ffff:167.114.220.125
+2607:5300:120:b9b::200
+2607:5300:61:95f:7283:11d9:0f86:e689
+2607:5300:61:95f:7283:11d9:f86:e690
+::ffff:45.77.180.10
+2001:19f0:7001:5554:5400:02ff:fe57:3077
+::ffff:176.56.236.175
+::ffff:168.235.81.167
+2604:180:f3::42
+::ffff:217.168.20.23
+::ffff:217.169.20.22
+2001:8b0::2022
+2001:8b0::2023
+::ffff:103.2.57.5
+2001:300::5
+2001:300::6
+::ffff:146.185.167.43
+2a03:b0c0:0:1010::e9a:3001
+2001:19f0:7001:3259:5400:02ff:fe71:0bc9
+::ffff:99.83.154.118
+::ffff:75.2.45.215
+::ffff:116.203.179.248
+2a01:4f8:1c1c:6938::1
+2001:608:a01::3
+::ffff:116.202.176.26
+2a01:4f8:1c0c:8274::1
+::ffff:5.2.75.75
+::ffff:45.79.120.233
+::ffff:45.67.219.208
+2606:4700:3108::ac42:286b
+2606:4700:3108::ac42:2b95
+
+==================================================================
+# Domains:
+==================================================================
+
+public1.114dns.com
+public2.114dns.com
+anti-malware-1.114dns.com
+anti-malware-2.114dns.com
+protect-children-1.114dns.com
+protect-children-2.114dns.com
+pub1.sdns.360.cn
+doh.360.cn
+dot.360.cn
+dns.adguard.com
+176-103-130-130.dns.adguard.com
+2.dnscrypt.default.ns1.adguard.com
+2.dnscrypt.default.ns2.adguard.com
+dns-family.adguard.com
+176-103-130-132.dns.adguard.com
+2.dnscrypt.family.ns1.adguard.com
+2.dnscrypt.family.ns2.adguard.com
+dns-unfiltered.adguard.com 
+2.dnscrypt.unfiltered.ns1.adguard.com
+2.dnscrypt.default.ns2.adguard.com
+public1.alidns.com
+public2.alidns.com
+dns.alidns.com
+doh.applied-privacy.net
+dot1.applied-privacy.net
+ptr.183.65.177.93.static.yourvserver.net
+nibbler.appliedprivacy.net
+blitz.ahadns.com
+nl.ahadns.net
+doh.nl.ahadns.net
+dot.nl.ahadns.net
+in.ahadns.net
+doh.in.ahadns.net
+dot.in.ahadns.net
+la.ahadns.net
+doh.la.ahadns.net
+dot.la.ahadns.net
+ny.ahadns.net
+doh.ny.ahadns.net
+dot.ny.ahadns.net
+pl.ahadns.net
+doh.pl.ahadns.net
+dot.pl.ahadns.net
+it.ahadns.net
+doh.it.ahadns.net
+dot.it.ahadns.net
+es.ahadns.net
+doh.es.ahadns.net
+dot.es.ahadns.net
+no.ahadns.net
+doh.no.ahadns.net
+dot.no.ahadns.net
+chi.ahadns.net
+doh.chi.ahadns.net
+dot.chi.ahadns.net
+au.ahadns.net
+doh.au.ahadns.net
+dot.au.ahadns.net
+ec2-3-7-156-128.ap-south-1.compute.amazonaws.com
+dns.arapurayil.com
+2.dnscrypt-cert.dns.arapurayil.com
+7.51.154.104.bc.googleusercontent.com
+219.88.199.35.bc.googleusercontent.com
+90.28.155.104.bc.googleusercontent.com
+58.220.155.104.bc.googleusercontent.com
+23.47.189.35.bc.googleusercontent.com
+fi1.blahdns.com
+doh-fi.blahdns.com
+dot-fi.blahdns.com
+2.dnscrypt-cert.blahdns.com
+dot-jp.blahdns.com
+doh-jp.blahdns.com
+2.dnscrypt-cert.blahdns.com
+de1.blahdns.com
+dot-de.blahdns.com
+doh-de.blahdns.com
+2.dnscrypt-cert.blahdns.com
+static.101.198.69.159.clients.your-server.de
+public-dns-a.baidu.com
+family-filter-dns.cleanbrowsing.org 
+family-filter-dns2.cleanbrowsing.org
+doh.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+adult-filter2-dns2.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org 
+security-filter-dns2.cleanbrowsing.org
+customfilter9-dns.cleanbrowsing.org
+one.one.one.one
+1dot1dot1dot1.cloudflare-dns.com
+dns.cloudflare.com
+dns64.cloudflare-dns.com 
+security.cloudflare-dns.com 
+family.cloudflare-dns.com 
+ns1.recursive.dnsbycomodo.com
+ns2.recursive.dnsbycomodo.com
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
+dns.comss.one
+2.dnscrypt-cert.dns.comss.one
+dns.east.comss.one
+private.canadianshield.cira.ca
+protected.canadianshield.cira.ca
+family.canadianshield.cira.ca
+dns.cfiec.net
+odvr.nic.cz
+2.dnscrypt-cert.captnemo.in
+manchester-ns01.cyberghostvpn.com
+newyork-ns01.cyberghostvpn.com
+freedns.controld.com
+p0.freedns.controld.com
+s0.freedns.controld.com
+p1.freedns.controld.com
+s1.freedns.controld.com
+controld.com
+p2.freedns.controld.com
+s2.freedns.controld.com
+p3.freedns.controld.com
+s3.freedns.controld.com
+family.freedns.controld.com
+p4.freedns.controld.com
+s4.freedns.controld.com
+uncensored.freedns.controld.com
+p5.freedns.controld.com
+s5.freedns.controld.com
+anycast.uncensoreddns.org
+unicast.uncensoreddns.org
+dns.cmrg.net
+rdns.dynect.net
+resolver1.dyndnsinternetguide.com
+resolver2.dyndnsinternetguide.com 
+resolver1.dns.watch 
+resolver2.dns.watch
+dns1.dnsforfamily.com
+dns2.dnsforfamily.com
+dns-doh.dnsforfamily.com
+dns-dot.dnsforfamily.com
+dnsforfamily.com
+172-105-216-54.ip.linodeusercontent.com
+jp.rhzahra.com
+asia.dnscepat.id
+nl.floriaweb.ir
+eropa.dnscepat.id
+pdns.dnspod.cn
+doh.pub
+dns.pub
+dot.pub
+static.158.199.9.176.clients.your-server.de
+2.dnscrypt-cert.DeCloudUs-test
+dns.decloudus.com
+public-dns-a.dns.sb
+public-dns-b.dns.sb
+doh.dns.sb
+dnsforge.de
+getdnsapi.net
+getdnsapi.org
+www.getdnsapi.net
+www.getdnsapi.org
+dnsovertls.sinodun.com
+dnsovertls1.sinodun.com
+unicast.censurfridns.dk
+anycast.censurfridns.dk
+tachanka26.koumbit.net
+dns.cmrg.net
+167-70-15-51.instances.scw.cloud
+dns.larsdebruin.net
+ns2.bitwiseshift.net
+dns-tls.bitwiseshift.net
+static.178.110.130.94.clients.your-server.de
+ns1.dnsprivacy.at
+ns2.dnsprivacy.at
+dns.bitgeek.in
+dns.neutopia.org
+privacydns.go6lab.si
+dot.securedns.eu
+dnsotls.lab.nic.cl
+tls-dns-u.odvr.dns-oarc.net
+dns1.digitale-gesellschaft.ch
+dns2.digitale-gesellschaft.ch
+dns.digitale-gesellschaft.ch
+resolver1.ns.dnslify.net
+resolver2.ns.dnslify.net
+doh.dnslify.com
+resolver3.ns.dnslify.net
+resolver4.ns.dnslify.net
+dandelionsprout.asuscomm.com
+dns2.digitalcourage.de
+dns3.digitalcourage.de
+172-104-237-57.ip.linodeusercontent.com
+172-104-49-100.ip.linodeusercontent.com
+resolver1.freedns.zone.powered.by.virtexxa.com
+resolver2.freedns.zone.powered.by.virtexxa.com
+kaitain.restena.lu
+anyone.anyqa.st
+anytwo.anyqa.st
+2.dnscrypt-cert.dnsrec.meo.ws
+dot.ffmuc.net
+doh.ffmuc.net
+2.dnscrypt-cert.ffmuc.net
+sendlingertor.ffmuc.net
+anycast01.ffmuc.net
+45.77.165.194.vultr.com
+45.32.36.36.vultr.com
+ns0.fdn.fr
+ns0.fdn.org
+ns1.fdn.fr
+ns1.fdn.org
+doh-dot.applied-privacy.net
+dot1.applied-privacy.net
+imani.netriin.net
+nl.resolv.flokinet.net
+ro.resolv.flokinet.net
+dns.google
+dns64.dns.google 
+bzq-218-119-1.red.bezeqint.net
+getdnsapi.net
+getdnsapi.org
+www.getdnsapi.net
+www.getdnsapi.org
+ordns.he.net
+public.dns.iij.jp
+public00.dns.iij.jp
+public01.dns.iij.jp
+7.85.77.83.dynamic.wline.res.cust.swisscom.ch
+178-82-102-190.dynamic.hispeed.ch
+dynamic.wline.6rd.res.cust.swisscom.ch
+ibksturm.synology.me
+2.dnscrypt-cert.ibksturm
+recursor01.dns.lightningwirelabs.com
+recursor01.haj.ipfire.org
+recursor01.dns.ipfire.org
+resolver-eu.lelux.fi
+mail-out.lelux.fi
+libreops.cc
+libredns.gr
+doh.libredns.gr
+dot.libredns.gr
+232.44.185.35.bc.googleusercontent.com
+doh.mullvad.net
+adblock.doh.mullvad.net
+rec1pubns1.ultradns.net
+rec1pubns2.ultradns.net
+rdns1.ultradns.net
+rdns2.ultradns.net
+2.dnscrypt-cert.nawala.id
+dns.nextdns.io
+dns1.nextdns.io
+dns2.nextdns.io
+do-sfo-1.edge.nextdns.io
+do-blr-1.edge.nextdns.io
+116-204-183-61.static.bangmod-idc.com
+vps-0ad116e1.vps.ovh.ca
+ns.N-IX.net
+ns1.new-nations.net
+dns.neutopia.org
+resolver1.opendns.com
+resolver2.opendns.com
+dns.umbrella.com
+dns.opendns.com 
+doh.opendns.com
+2.dnscrypt-cert.opendns.com
+resolver1-fs.opendns.com
+resolver2-fs.opendns.com
+familyshield.opendns.com 
+doh.familyshield.opendns.com
+2.dnscrypt-cert.opendns.com
+resolver1.ipv6-sandbox.opendns.com
+resolver2.ipv6-sandbox.opendns.com
+sandbox.opendns.com 
+2.dnscrypt-cert.opendns.com
+anyone.anyqa.st 
+anytwo.anyqa.st 
+anyone.dnsrec.meo.ws 
+anytwo.dnsrec.meo.ws
+ec2-117-50-10-10.cn-north-1.compute.amazonaws.com.cn
+ec2-52-80-52-52.cn-north-1.compute.amazonaws.com.cn
+ec2-117-50-11-11.cn-north-1.compute.amazonaws.com.cn
+ec2-52-80-66-66.cn-north-1.compute.amazonaws.com.cn
+vps.oszx.co
+2.dnscrypt-cert.oszx.co
+dns.oszx.co
+198.ip-51-38-82.eu
+vps-f2ed8d6f.vps.ovh.net
+2.dnscrypt-cert.pumplex.com
+dns.pumplex.com
+resolver.tiar.app
+2.dnscrypt-cert.dns.tiar.app
+doh.tiarap.org
+doh.tiar.app
+dot.tiar.app
+2.dnscrypt-cert.jp.tiar.app
+jp.tiarap.org
+jp.tiar.app
+2a00-1508-0-4--9.puntcat.ip6.guifi.net
+dns2.publicdns.eu.stumptner.it
+dns1.publicdns.eu.stumptner.it
+dns.ip6.publicdns.eu.stumptner.it
+dns9.quad9.net 
+rpz-public-resolver1.rrdns.pch.net
+2.dnscrypt-cert.quad9.net
+dns11.quad9.net 
+2.dnscrypt-cert.quad9.net
+dns10.quad9.net
+2.dnscrypt-cert.quad9.net
+twnic-public-dns.twnic.tw
+dns.twnic.tw
+basic.rethinkdns.com
+max.rethinkdns.com
+kaitain.restena.lu
+dns.switch.ch
+dns-cache.switch.ch
+dns-cache2.switch.ch
+dns.skydns.ru
+dns1.safedns.com
+dns2.safedns.com
+fi.doh.dns.snopyta.org
+fi.dot.dns.snopyta.org
+ns1.strongarm.io
+ns2.strongarm.io
+225.237.155.104.bc.googleusercontent.com
+121.28.197.104.bc.googleusercontent.com
+2.dnscrypt-cert.safesurfer.co.nz
+dns.seby.io
+ntp.seby.io
+dot.seby.io
+doh-2.seby.io
+2.dnscrypt-cert.dns.seby.io
+dnsovertls2.sinodun.com
+dnsovertls3.sinodun.com
+dns.yandex.ru
+secondary.dns.yandex.ru 
+dnscrypt.yandex.net
+2.dnscrypt-cert.browser.yandex.net
+safe.dns.yandex.ru
+secondary.safe.dns.yandex.ru
+family.dns.yandex.ru
+secondary.family.dns.yandex.ru
+resolver1.level3.net
+resolver2.level3.net
+74_113_60_185.h5colo.h5colo.com
+dns.as250.net
+77-109-148-136.init7.net
+77-109-148-137.init7.net
+rdns1.ultradns.net
+rdns2.ultradns.net
+mx1.sourpuss.net
+dementia.virtual-dope.com
+anycast.censurfridns.dk
+unicast.censurfridns.dk
+100.ip-158-69-209.net
+45.32.72.192.vultrusercontent.com
+ns1.pacific.net.hk
+ns2.pacific.net.hk
+pub1.sdns.360.cn
+dns-a.pdomo.me
+108.61.201.119.vultrusercontent.com
+host97-0-61-217.static.arubacloud.de
+h-87.118.111.215.keyweb.de
+mail02.ns3.it
+45.32.198.153.vultrusercontent.com
+public1.sdns.cn
+dns1.seed.net.tw
+pearl.hknet.com
+jade.hknet.com
+dns.hutchcity.com
+dns04.hutchcity.com
+dns.hinet.net
+hntp1.hinet.net
+kns.kornet.net
+kns2.kornet.net
+bns1.hananet.net
+bns2.hananet.net
+dns-us-nyc2.nordvpn.com
+dns.surfshark.com
+doh.li
+doh.crypto.sx
+doh-ipv6.crypto.sx
+dora.ns.cloudflare.com
+jack.ns.cloudflare.com
+doh.ffmuc.net
+jp.tiarap.org
+doh.tiarap.org
+uw-dns.rubyfish.com
+ea-dns.rubyfish.com
+dns.brahma.world
+static.114.224.130.94.clients.your-server.de
+doh.seby.io
+doh-2.seby.io
+ntp.seby.io
+a0.nic.io
+a2.nic.io
+b0.nic.io
+c0.nic.io
+dns.alekberg.net
+hwsrv-922149.hostwindsdns.com
+mdns1.hostwindsdns.com
+mdns2.hostwindsdns.com
+mdns3.hostwindsdns.com
+mdns4.hostwindsdns.com
+alekberg.net
+dnsse.alekberg.net
+dns.t53.de
+fi.doh.dns.snopyta.org
+jp.gridns.xyz
+172-105-241-93.ip.linodeusercontent.com
+doh.opendns.com
+doh.tiar.app
+jp.tiar.app
+doh.233py.com
+www.nextrt.com
+i.233py.com
+81.165.21.175.adsl-pool.jlccptt.net.cn
+hn.kd.jz.adsl
+75.20.204.221.adsl-pool.sx.cn
+116.9.161.61.adsl-pool.jlccptt.net.cn
+dns1.dnscrypt.ca
+dns2.dnscrypt.ca
+ip45.ip-149-56-228.net
+ip125.ip-167-114-220.net
+dns.containerpi.com
+45.77.180.10.addr.containerpi.com
+dns.aaflalo.me
+dns-nyc.aaflalo.me
+dns.aa.net.uk
+ads-doh.securedns.eu
+commons.host
+a51062ecadbb5a26e.awsglobalaccelerator.com
+rumpelsepp.org
+static.248.179.203.116.clients.your-server.de
+tatooine.sevenbyte.org
+
+==================================================================
+# Provider List:
+==================================================================
+
+
+# 114DNS
+# 360 Secure DNS
+# Adguard
+# Ali DNS
+# Applied Privacy DNS
+# AhaDNS
+# Arapurayil
+# Apple
+# Alternate DNS
+# AdDNS
+# Aaflalo
+# A and A
+# BlahDNS
+# Baidu
+# Brahma-World
+# CleanBrowsing
+# Cloudflare
+# Comodo Secure DNS
+# Comss.ru DNS
+# CIRA Canadian Shield DNS
+# CFIEC Public DNS
+# CZ.NIC ODVR
+# Captnemo DNS
+# CyberGhost
+# Control D
+# censurfridns.dk
+# CMRG DNS
+# Chaos Computer Club
+# CNNIC sDNS
+# Crypto-sx
+# ContainerPi
+# commons-host
+# Dyn
+# DNS.WATCH
+# DNS for Family
+# DNSCEPAT
+# DNSPod Public DNS+ 
+# DeCloudUs DNS
+# DNS.SB
+# DNS Forge.de
+# DNS Privacy
+# Digitale Gesellschaft DNS
+# DNSlify DNS
+# Dandelion Sprout's Official DNS Server
+# Digitalcourage
+# DNSReactor
+# DNS Advantage
+# dnspai
+# doh.li
+# DNScrypt
+# FreeDNS
+# Freenom World
+# Fondation Restena DNS
+# fvz DNS
+# Freifunk München e.V.
+# Fourth Estate
+# French Data Network
+# Foundation for Applied Privacy
+# FlokiNET
+# faelix / ffmuc.net
+# FoolDNS
+# Google
+# GreenTeamDNS
+# GetDNS
+# Gridns
+# Geekdns DoH
+# Hurricane Electric
+# HiXNS
+# HKNet
+# HGC
+# HiNet
+# IIJ.JP DNS
+# ibksturm DNS
+# iQiyi
+# keweonDNS
+# KT olleh DNS
+# Lightning Wire Labs
+# Lelux DNS 
+# LibreDNS
+# Level3
+# Mullvad
+# Neustar \ Verisign
+# Nawala Childprotection DNS
+# NextDNS
+# Nuernberg Internet Exchange
+# New Nations
+# Neutopia
+# Nord DNS
+# Norton ConnectSafe
+# OpenDNS
+# OpenNIC
+# OneDNS
+# OSZX DNS
+# Privacy-First DNS
+# puntCAT DNS
+# PublicDNS.eu
+# PACNET
+# PdoMo DNS
+# Public Array
+# Quad9
+# Quad101
+# RethinkDNS
+# Redhat
+# Restena Foundation
+# RubyFish
+# rumpelsepp.org
+# SWITCH DNS 
+# SkyDNS RU
+# Safe DNS
+# Snopyta DNS
+# Strongarm DNS
+# SafeSurfer DNS
+# Seby DNS
+# Surfnet
+# SecureDNS
+# SmartViper
+# Seednet
+# SK Broadband DNS
+# Surfshark DNS
+# Sea DoH \ Ams DoH \ Sth-doh-se
+# Snopyta DNS
+# Tenta
+# Tiarap
+# t53
+# Tiar
+# UncensoredDNS
+# Xiala
+# XsicoDNS
+# Yandex
