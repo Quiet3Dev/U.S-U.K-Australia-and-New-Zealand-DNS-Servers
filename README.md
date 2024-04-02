@@ -7,6 +7,8 @@ This list should be used as a record if someone wants to block countries using P
 
 It's possible to combine multiple continents' blocking DNS servers and ISP DNS servers, but if your choice wants to make your list, If you use it, there is a folder called "All in One DNS Servers" that has combined all ISP and public DNS servers; however, keep in mind that this will not update the latest DNS server.
 
+This is part 2 of the DNS server list since it will be an unorganized mess on this repository.
+
 Software Used:
 
 - Pi-Hole
